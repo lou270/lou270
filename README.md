@@ -3,6 +3,7 @@
 <h1 align="left">Hi there 👋</h1>
 
 I'm Louis Barbier from France.
+
 🔭 I’m currently working on rocket projects ...
 
 <h2 align="left">I code with ... (and many more)</h2>
